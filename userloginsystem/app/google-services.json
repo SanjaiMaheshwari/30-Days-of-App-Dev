@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "994386091273",
+    "project_id": "userloginsystem-ea82c",
+    "storage_bucket": "userloginsystem-ea82c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994386091273:android:7c800d806b8d69081dc7d8",
+        "android_client_info": {
+          "package_name": "com.example.userloginsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy1IM_kCBvnHGsNGKfp64qIlD00K93zGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
